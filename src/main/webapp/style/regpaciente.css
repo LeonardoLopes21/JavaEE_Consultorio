@@ -1,0 +1,22 @@
+.test{
+	color:white;
+}
+
+.select-group input.form-control{
+	width: 65%;
+	}
+.input-group-addon {
+	width: 45%!important;
+}
+
+a:hover{
+	
+}
+
+.dropdown-item:focus{
+	background-color: grey!important;
+	
+} .dropdown-item:hover {
+	background-color: grey!important;
+	
+}
